@@ -22,4 +22,4 @@ A full-featured restaurant website with multi-page design, user reservation syst
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/delish.git
+   git clone https://github.com/vasicut/delish.git
